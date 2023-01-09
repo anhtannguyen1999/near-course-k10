@@ -1,0 +1,7 @@
+DEFINE_NEAR_METHOD(get_all_tokens)
+DEFINE_NEAR_METHOD(get_supply_tokens)
+DEFINE_NEAR_METHOD(get_token_by_id)
+DEFINE_NEAR_METHOD(init)
+DEFINE_NEAR_METHOD(mint_nft)
+DEFINE_NEAR_METHOD(nft_metadata)
+DEFINE_NEAR_METHOD(nft_transfer)
